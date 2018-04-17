@@ -1,7 +1,7 @@
 import scala.annotation.tailrec
 
 
-object Object1 {
+object Exercise1 {
   def main(args: Array[String]){
       val weekDays = List("PONIEDZIALEK", "WTOREK", "SRODA", "CZWARTEK", "PIATEK", "SOBOTA", "NIEDZIELA")
       for(day <- weekDays) println(day)

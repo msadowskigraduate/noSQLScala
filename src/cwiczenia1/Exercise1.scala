@@ -1,6 +1,8 @@
-import scala.annotation.tailrec
+package cwiczenia1
 
-
+/**
+  * Created by esadowska on 11/06/2018.
+  */
 object Exercise1 {
   def main(args: Array[String]){
       val weekDays = List("PONIEDZIALEK", "WTOREK", "SRODA", "CZWARTEK", "PIATEK", "SOBOTA", "NIEDZIELA")
@@ -21,13 +23,13 @@ object Exercise1 {
       println("----------------------------------------------------------")
       recursiveReverseFunction(weekDays)
       println("FOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDL")
-      weekDays.foldLeft(){(_, x) => println(x)} 
+      weekDays.foldLeft(){(_, x) => println(x)}
       println("FOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDFOLDR")
-      weekDays.foldRight(){(x, _) => println(x)} 
+      weekDays.foldRight(){(x, _) => println(x)}
       println("XXXXXXXXXXXXXXX FOLD WITH ONLY P FOLD XXXXXXXXXXXXXXXXXXX")
-      weekDays.foldLeft(){(_, x) => if (x.startsWith("P")) println(x)} 
+      weekDays.foldLeft(){(_, x) => if (x.startsWith("P")) println(x)}
   }
-  
+
   def recursiveFunction(days: List[String]) {
     @tailrec
     def iterateOver(x: Int) {
@@ -38,7 +40,7 @@ object Exercise1 {
     }
     iterateOver(0)
   }
-  
+
  def recursiveReverseFunction(days: List[String]) {
     @tailrec
     def iterateOver(x: Int) {

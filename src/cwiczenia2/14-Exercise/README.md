@@ -1,0 +1,2 @@
+## Przy pomocy operacji map-reduce i tam gdzie to możliwe frameworku do agregacji znajdź następujące informacje:
+14. Średnie, minimalne i maksymalne BMI (waga/wzrost^2) dla osób w bazie, w podziale na narodowości.

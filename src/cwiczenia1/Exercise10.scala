@@ -1,3 +1,5 @@
+package cwiczenia1
+
 /**
   * Created by sadowsm3 on 17.04.2018
   */

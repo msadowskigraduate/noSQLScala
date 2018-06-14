@@ -1,0 +1,39 @@
+#2 One person
+> db.people.findOne({})
+
+#3 Chinese woman
+> db.people.findOne({sex: "Female", nationality:"China"})
+
+#4 German male list
+> db.people.find({sex: "Male", nationality: "Germany"})
+
+#5 List of all people of weight between 68 and 71.5
+> db.people.find({weight: { $gt: "68", $lt: "71.5" }})
+
+#6 Name surname and city for people born in 21st centry
+> db.people.find({birth_date: { $gt: "2001-01-01T00:00:00Z" }}, {first_name: 1, last_name: 1, "location.city": 1})
+
+#7
+db.people.insertOne({sex: "Male", first_name: "Michal", last_name: "Sadowski", job: "IT Professional", email: "s17983@pjwstk.edu.pl",
+location: { city: "Warsaw", address: {streetname: "AABBCCDDEE", streetnumber: "393" } }, description: "loremipsum sritsum",
+height: "185", weight: "90", birth_date: "1994-07-13T18:22:07Z", nationality: "Poland", credit: [ {type: "jcb", number: "111222333444",
+currency: "ILS", balance: "9999999"} ] })
+
+#8
+db.people.deleteMany( {height: { $gt: "190" } })
+
+#9
+db.people.updateMany({"location.city": "Moscow"}, {$set: {"location.city": "Moskwa"}} )
+
+#10
+db.people.updateMany({first_name: "Antonio"}, { $set: { hobby: "pingpong"} } )
+
+#11
+db.people.updateMany({job: "Editor"}, {$unset: {email: 1}}, {multi: true})
+
+#12
+db.people.mapReduce(
+     function() { emit(this.sex, {count: 1, weight: parseFloat(this.weight), height: parseFloat(this.height)}); },
+     function(key, value) { return (Array.sum(value)/Array.length) },
+     { out: "order_total" }
+ )

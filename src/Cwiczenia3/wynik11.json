@@ -1,0 +1,1500 @@
+﻿╒══════════════════════════════════════════════════════════════════════╤═══════════════╕
+│"paths"                                                               │"totaldistance"│
+╞══════════════════════════════════════════════════════════════════════╪═══════════════╡
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Tumbling","winter":"true","│32             │
+│distance":10,"summer":"false"},{"name":"Tumbling"},{"name":"Tumbling"}│               │
+│,{"name":"Tumbling-Gairibus","winter":"true","distance":8,"summer":"tr│               │
+│ue"},{"name":"Gairibus"},{"name":"Gairibus"},{"name":"Gairibus-BhikeBh│               │
+│anja","winter":"true","distance":10,"summer":"true"},{"name":"BhikeBha│               │
+│nja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-Sandakphu","winter":│               │
+│"true","distance":4,"summer":"true"},{"name":"Sandakphu","altitude":"1│               │
+│2400 ft"}]                                                            │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-BhikeBhanja","winter":"true","distance":18,"summer":"true"},│               │
+│{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-San│               │
+│dakphu","winter":"true","distance":4,"summer":"true"},{"name":"Sandakp│               │
+│hu","altitude":"12400 ft"}]                                           │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-BhikeBhanja","winter":"true","distance":18,"summer":"true"},│               │
+│{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-San│               │
+│dakphu","winter":"true","distance":4,"summer":"true"},{"name":"Sandakp│               │
+│hu","altitude":"12400 ft"}]                                           │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-BhikeBhanja","winter":"true","distance":18,"summer":"true"},│               │
+│{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja-San│               │
+│dakphu","winter":"true","distance":4,"summer":"true"},{"name":"Sandakp│               │
+│hu","altitude":"12400 ft"}]                                           │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│37             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Gurdum","win│               │
+│ter":"true","distance":6,"summer":"true"},{"name":"Gurdum"},{"name":"G│               │
+│urdum"},{"name":"Gurdum-Sandakphu","winter":"true","distance":12,"summ│               │
+│er":"true"},{"name":"Sandakphu","altitude":"12400 ft"}]               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│44             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Tumbling","winter":"true","distance":7,"summer":"false"},{"n│               │
+│ame":"Tumbling"},{"name":"Tumbling"},{"name":"Tumbling-Gairibus","wint│               │
+│er":"true","distance":8,"summer":"true"},{"name":"Gairibus"},{"name":"│               │
+│Gairibus"},{"name":"Gairibus-BhikeBhanja","winter":"true","distance":1│               │
+│0,"summer":"true"},{"name":"BhikeBhanja"},{"name":"BhikeBhanja"},{"nam│               │
+│e":"BhikeBhanja-Sandakphu","winter":"true","distance":4,"summer":"true│               │
+│"},{"name":"Sandakphu","altitude":"12400 ft"}]                        │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│48             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Gurdum","winter":"true","distance":10,"summer"│               │
+│:"false"},{"name":"Gurdum"},{"name":"Gurdum"},{"name":"Gurdum-Sandakph│               │
+│u","winter":"true","distance":12,"summer":"true"},{"name":"Sandakphu",│               │
+│"altitude":"12400 ft"}]                                               │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+├──────────────────────────────────────────────────────────────────────┼───────────────┤
+│[{"name":"Darjeeling"},{"name":"Darjeeling-Rimbik","winter":"true","di│55             │
+│stance":15,"summer":"true"},{"name":"Rimbik"},{"name":"Rimbik"},{"name│               │
+│":"Rimbik-Sirikhola","winter":"true","distance":4,"summer":"true"},{"n│               │
+│ame":"Sirikhola"},{"name":"Sirikhola"},{"name":"Sirikhola-Rammam","win│               │
+│ter":"true","distance":7,"summer":"true"},{"name":"Rammam"},{"name":"R│               │
+│ammam"},{"name":"Rammam-Sabargram","winter":"true","distance":14,"summ│               │
+│er":"true"},{"name":"Sabargram","altitude":"10000 ft"},{"name":"Sabarg│               │
+│ram","altitude":"10000 ft"},{"name":"Rammam-Sabargram","winter":"true"│               │
+│,"distance":15,"summer":"true"},{"name":"Sandakphu","altitude":"12400 │               │
+│ft"}]                                                                 │               │
+└──────────────────────────────────────────────────────────────────────┴───────────────┘

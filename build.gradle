@@ -4,3 +4,15 @@
  * This is a general purpose Gradle build.
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds/
  */
+apply plugin: 'application'
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/com.basho.riak/riak-client
+    compile group: 'com.basho.riak', name: 'riak-client', version: '2.1.1'
+}
+mainClassName = "Cwiczenia4.Riak"

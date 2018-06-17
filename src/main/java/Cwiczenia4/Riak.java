@@ -6,12 +6,12 @@ import com.basho.riak.client.api.RiakClient;
 import com.basho.riak.client.core.query.Location;
 import java.net.UnknownHostException;
 import java.util.concurrent.ExecutionException;
-
 import static Cwiczenia4.RiakFunctions.*;
 
 /**
  * @author sadowsm3 on 17.06.2018
  */
+
 public class Riak {
     public static void main(String[] args) throws UnknownHostException, ExecutionException, InterruptedException {
 

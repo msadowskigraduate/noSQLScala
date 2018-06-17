@@ -1,0 +1,39 @@
+	
+[
+  {
+    "keys": [
+      "airline",
+      "count(distinct aprt)"
+    ],
+    "length": 2,
+    "_fields": [
+      "20304",
+      {
+        "low": 54,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "airline": 0,
+      "count(distinct aprt)": 1
+    }
+  },
+  {
+    "keys": [
+      "airline",
+      "count(distinct aprt)"
+    ],
+    "length": 2,
+    "_fields": [
+      "19977",
+      {
+        "low": 51,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "airline": 0,
+      "count(distinct aprt)": 1
+    }
+  }
+]

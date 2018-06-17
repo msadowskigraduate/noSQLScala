@@ -1,0 +1,544 @@
+[
+  {
+    "keys": [
+      "airportsAvailableBelow3000"
+    ],
+    "length": 1,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 13,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SMF"
+          }
+        },
+        {
+          "identity": {
+            "low": 17,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "DEN"
+          }
+        },
+        {
+          "identity": {
+            "low": 31,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LGA"
+          }
+        },
+        {
+          "identity": {
+            "low": 25,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "LAS"
+          }
+        },
+        {
+          "identity": {
+            "low": 7,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ORD"
+          }
+        },
+        {
+          "identity": {
+            "low": 11,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SFO"
+          }
+        },
+        {
+          "identity": {
+            "low": 2,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "IAH"
+          }
+        },
+        {
+          "identity": {
+            "low": 50,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "TPA"
+          }
+        },
+        {
+          "identity": {
+            "low": 62,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "BZN"
+          }
+        },
+        {
+          "identity": {
+            "low": 12,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "IAD"
+          }
+        },
+        {
+          "identity": {
+            "low": 27,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "CMH"
+          }
+        },
+        {
+          "identity": {
+            "low": 16,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "BOS"
+          }
+        },
+        {
+          "identity": {
+            "low": 63,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "OKC"
+          }
+        },
+        {
+          "identity": {
+            "low": 58,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "MEM"
+          }
+        },
+        {
+          "identity": {
+            "low": 60,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "OMA"
+          }
+        },
+        {
+          "identity": {
+            "low": 51,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "PIT"
+          }
+        },
+        {
+          "identity": {
+            "low": 1,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "EWR"
+          }
+        },
+        {
+          "identity": {
+            "low": 64,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "CRP"
+          }
+        },
+        {
+          "identity": {
+            "low": 68,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "GRR"
+          }
+        },
+        {
+          "identity": {
+            "low": 61,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "MSY"
+          }
+        },
+        {
+          "identity": {
+            "low": 0,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SEA"
+          }
+        },
+        {
+          "identity": {
+            "low": 6,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FLL"
+          }
+        },
+        {
+          "identity": {
+            "low": 29,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "PHX"
+          }
+        },
+        {
+          "identity": {
+            "low": 55,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ORF"
+          }
+        },
+        {
+          "identity": {
+            "low": 66,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAR"
+          }
+        },
+        {
+          "identity": {
+            "low": 57,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "AUS"
+          }
+        },
+        {
+          "identity": {
+            "low": 28,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SJC"
+          }
+        },
+        {
+          "identity": {
+            "low": 18,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "DFW"
+          }
+        },
+        {
+          "identity": {
+            "low": 56,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "BWI"
+          }
+        },
+        {
+          "identity": {
+            "low": 67,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "SGF"
+          }
+        },
+        {
+          "identity": {
+            "low": 4,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "MCO"
+          }
+        },
+        {
+          "identity": {
+            "low": 40,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ABQ"
+          }
+        },
+        {
+          "identity": {
+            "low": 53,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "RSW"
+          }
+        },
+        {
+          "identity": {
+            "low": 54,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "BDL"
+          }
+        },
+        {
+          "identity": {
+            "low": 21,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "MSN"
+          }
+        },
+        {
+          "identity": {
+            "low": 59,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "MFE"
+          }
+        },
+        {
+          "identity": {
+            "low": 69,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "RNO"
+          }
+        },
+        {
+          "identity": {
+            "low": 32,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "ROC"
+          }
+        },
+        {
+          "identity": {
+            "low": 39,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "MIA"
+          }
+        },
+        {
+          "identity": {
+            "low": 42,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "TUS"
+          }
+        },
+        {
+          "identity": {
+            "low": 41,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "FAT"
+          }
+        },
+        {
+          "identity": {
+            "low": 65,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "TUL"
+          }
+        },
+        {
+          "identity": {
+            "low": 52,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "PSP"
+          }
+        },
+        {
+          "identity": {
+            "low": 10,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "PDX"
+          }
+        }
+      ]
+    ],
+    "_fieldLookup": {
+      "airportsAvailableBelow3000": 0
+    }
+  }
+]
+

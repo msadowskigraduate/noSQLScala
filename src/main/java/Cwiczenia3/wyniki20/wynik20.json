@@ -1,0 +1,148 @@
+	
+[
+  {
+    "keys": [
+      "p",
+      "totalCost"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 21,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "MSN"
+          }
+        },
+        "end": {
+          "identity": {
+            "low": 68,
+            "high": 0
+          },
+          "labels": [
+            "Airport"
+          ],
+          "properties": {
+            "name": "GRR"
+          }
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 21,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "MSN"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 1773,
+                "high": 0
+              },
+              "start": {
+                "low": 21,
+                "high": 0
+              },
+              "end": {
+                "low": 7,
+                "high": 0
+              },
+              "type": "CONNECT",
+              "properties": {
+                "flightId": {
+                  "low": 271,
+                  "high": 0
+                },
+                "ticketId": {
+                  "low": 272,
+                  "high": 0
+                }
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 7,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ORD"
+              }
+            }
+          },
+          {
+            "start": {
+              "identity": {
+                "low": 7,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "ORD"
+              }
+            },
+            "relationship": {
+              "identity": {
+                "low": 2405,
+                "high": 0
+              },
+              "start": {
+                "low": 7,
+                "high": 0
+              },
+              "end": {
+                "low": 68,
+                "high": 0
+              },
+              "type": "CONNECT",
+              "properties": {
+                "flightId": {
+                  "low": 851,
+                  "high": 0
+                },
+                "ticketId": {
+                  "low": 852,
+                  "high": 0
+                }
+              }
+            },
+            "end": {
+              "identity": {
+                "low": 68,
+                "high": 0
+              },
+              "labels": [
+                "Airport"
+              ],
+              "properties": {
+                "name": "GRR"
+              }
+            }
+          }
+        ],
+        "length": 2
+      },
+      196.5
+    ],
+    "_fieldLookup": {
+      "p": 0,
+      "totalCost": 1
+    }
+  }
+]
